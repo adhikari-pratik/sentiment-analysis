@@ -1,6 +1,5 @@
 fastapi
 pre-commit
-precommit-hooks
 pydantic
 pydantic_settings
 pytest
