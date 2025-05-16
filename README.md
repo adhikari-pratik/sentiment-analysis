@@ -2,6 +2,8 @@
 
 A simple FastAPI-based microservice that performs sentiment analysis on user input text. Built with the 12-Factor App principles in mind.
 
+VIDEO DEMO: [HERE IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1ijEcgXqDA5kVwH-Hfi0XSZs3WqqFAwu_?usp=drive_link) available ✅
+
 ---
 
 ## 🚀 Features
