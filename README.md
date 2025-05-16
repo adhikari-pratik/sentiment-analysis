@@ -21,7 +21,13 @@ VIDEO DEMO: [HERE IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1ijEcg
 ## 🧪 API Endpoint
 
 - `POST /api/v1/analyze`
+
+## Pre-commit hook in action
+
+![alt text](image.png)
+
 ```json
 {
-  "text": "I love working on this project!"
+	"text": "I love working on this project!"
 }
+```
